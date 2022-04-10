@@ -1,0 +1,12 @@
+{
+  "name": "ping-add-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "net-ping": "^1.2.3",
+    "sys": "^0.0.1"
+  }
+}
